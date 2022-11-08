@@ -28,7 +28,7 @@ I'm working toward a highly sustainable studio culture. I understand what helps 
 - Work alongside Technical directors and Game production, helping manage and take care of Total War Graphic engine team
 - Work with other leads on improving workflow, process and work environment
 
-### <span>Chairs of Inclusion and diversity</span> <span>Current -- 2022</span>
+### <span>Chairs of inclusion and diversity</span> <span>Current -- 2022</span>
 Leading ERGs (Employee Resource Groups) to promote wellbeing and positive behaviors, working closely with HR, Studio management and SEGA Europe to improve employee quality of life, and for a better studio culture
 
 ### <span>Senior graphics programmer</span> <span>2017 -- 2012</span>
@@ -46,15 +46,15 @@ Total War: Rome 2 (2013)
 Total War: Arena
 
 ### <span>Graphics programmer (Ubisoft reflections)</span> <span>2012 -- 2009</span>
-
 - Released titles:
   - The Crew (2014)
 Watch Dogs (2014)
 Ghost Recon: Future Soldier (2012)
 Driver: San Francisco (2011)
 
-### <span>Software engineer (Realtime worlds)</span> <span>2012 -- 2009</span>
-- Project My world
+### <span>Software engineer (Realtime worlds)</span> <span>2008 -- 2008</span>
+Working as a junior programmer, protyping gameplay using real world data streaming from the internet. 
+- Project My World
 
 ### <span>Assistant lecturer (University of Abertay Dundee)</span> <span>2009 -- 2006</span>
 
@@ -100,7 +100,7 @@ Leading a team representing CA. We made a game called Rise, a rhythm based actio
 ### <span>Global Game Jam 2016</span> <span>2016</span>
 Spirit trap, a HTML5 web game from the theme, ritual.
 
-### <span>100km walking challenges</span> <span>2019-2016</span>
+### <span>100km walking challenges</span> <span>2019 -- 2016</span>
 An annual physical challenge for charity
 - 100km South downs way, Action Challenge 2019
 - 100km South coast, Dorset 2018
