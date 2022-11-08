@@ -29,12 +29,12 @@ I'm working toward a highly sustainable studio culture. I understand what helps 
 - Work with other leads on improving workflow, process and work environment
 
 ### <span>Chairs of Inclusion and diversity</span> <span>Current -- 2022</span>
-A chair of Inclusion and diversity. Leading ERGs (Employee Resource Groups) to promote wellbeing and positive behaviors, working closely with HR, Studio management and SEGA Europe to improve employee quality of life, and for a better studio culture
+Leading ERGs (Employee Resource Groups) to promote wellbeing and positive behaviors, working closely with HR, Studio management and SEGA Europe to improve employee quality of life, and for a better studio culture
 
 ### <span>Senior graphics programmer</span> <span>2017 -- 2012</span>
 A graphics programmer, specialized in a high performance VFX system. My work included Compute based particle simulation, MBOIT rendering, GPU tree simulation, Ocean rendering and etc.
 
-- Release Titles:
+- Released titles:
   - Total War: Warhammer 3 (2022)
 Total War Saga: Troy (2020)
 Total War: Three Kingdoms (2019)
@@ -47,7 +47,7 @@ Total War: Arena
 
 ### <span>Graphics programmer (Ubisoft reflections)</span> <span>2012 -- 2009</span>
 
-- Release Titles:
+- Released titles:
   - The Crew (2014)
 Watch Dogs (2014)
 Ghost Recon: Future Soldier (2012)
