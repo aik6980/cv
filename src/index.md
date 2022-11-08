@@ -90,7 +90,10 @@ Study BEng, Electrical engineering
  
 ## Activities
 
-### <span>Franco jam, Creative assembly</span> <span>2022 -- 2014</span>
+### <span>Creative assembly legacy project</span> <span>Current - 2014</span>
+Working as an ambassador, help promoting education in games. Supporting university students for their first step into Game industry.
+
+### <span>Franco jam, Creative assembly</span> <span>Current -- 2014</span>
 An annual game jam charity event 
 - Franco jam 2021 (Under the sea of stars, 2nd), Franco jam 2020 (The band of boxes, Winner), Franco jam 2019 (A Million scale, 2nd), Franco jam 2015 (Secret recipe, Winner), Franco jam 2014 (Winter tales, 3rd)
 
@@ -106,6 +109,13 @@ An annual physical challenge for charity
 - 100km South coast, Dorset 2018
 - 100km Isle of Wight, Ultra challenge 2017
 - 64km Midnight walk, Seven Sisters 2016
+
+### <span>Coder Dojo Horsham</span> <span>2018 -- 2015</span>
+Mentoring and teaching basic programming to young people
+
+### <span>SprungDigi Horsham</span> <span>2015</span>
+Raise awareness about digital technology for learning disabled people
+
 
 ## Hobbies
 In my spare time, I like to work on my small projects to express my ideas and expand my knowledge. This ranges from a toy renderer to small games. I enjoyed playing my piano, bass, guitar and sing-along on my favorite tunes. During summer, I love to spend time outside, playing football, travelling and go for a hike. I love reading and the library full of physical books is one of my favorite places in town.
