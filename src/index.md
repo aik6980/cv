@@ -105,7 +105,7 @@ An annual physical challenge for charity
 - 100km South downs way, Action Challenge 2019
 - 100km South coast, Dorset 2018
 - 100km Isle of Wight, Ultra challenge 2017
-- 64km Midnight walk, 7 Sisters 2016
+- 64km Midnight walk, Seven Sisters 2016
 
 ## Hobbies
 In my spare time, I like to work on my small projects to express my ideas and expand my knowledge. This ranges from a toy renderer to small games. I enjoyed playing my piano, bass, guitar and sing-along on my favorite tunes. During summer, I love to spend time outside, playing football, travelling and go for a hike. I love reading and the library full of physical books is one of my favorite places in town.
