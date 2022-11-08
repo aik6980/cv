@@ -1,2 +1,2 @@
-# cv
-a github page for my cv
+# CV
+Github page for my CV, using a simple format
