@@ -53,7 +53,7 @@ Ghost Recon: Future Soldier (2012)
 Driver: San Francisco (2011)
 
 ### <span>Software engineer (Realtime worlds)</span> <span>2008 -- 2008</span>
-Working as a junior programmer, protyping gameplay using real world data streaming from the internet. 
+A gameplay programmer, protyping a game using real world data streaming from the internet. 
 - Project My World
 
 ### <span>Assistant lecturer (University of Abertay Dundee)</span> <span>2009 -- 2006</span>
@@ -105,10 +105,10 @@ Spirit trap, a HTML5 web game from the theme, ritual.
 
 ### <span>100km walking challenges</span> <span>2019 -- 2016</span>
 An annual physical challenge for charity
-- 100km South downs way, Action Challenge 2019,
-100km South coast, Dorset 2018,
-100km Isle of Wight, Ultra challenge 2017,
-64km Midnight walk, Seven Sisters 2016,
+- 100km South downs way (2019)
+100km South coast challenge (Dorset 2018)
+100km Isle of Wight (2017)
+64km Midnight walk (Seven Sisters 2016)
 
 ### <span>Coder Dojo Horsham</span> <span>2018 -- 2015</span>
 Mentoring and teaching basic programming to young people
